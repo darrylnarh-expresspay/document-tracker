@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/apiclient": "^2.18",
+        "aws/aws-sdk-php": "^3.364",
+        "sabre/dav": "^4.7"
+    }
+}
